@@ -10,6 +10,7 @@ A deep-dive SQL project analyzing hospital performance, patient trends, and oper
 * 🏥 **Business Use Cases** – Identifying cost drivers, optimizing patient stay duration, and improving resource allocation
 
 **Tech Stack:** MySQL, SQL Aggregations, Joins, Date Functions
+
 **🎯 Goal:** Transform raw hospital data into actionable insights for better healthcare decision-making.
 
 ---
